@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SimuladorPartidas</string>
     <string name="txt_versus">X</string>
+    <string name="error_api">Erro inesperado</string>
 </resources>
